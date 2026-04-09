@@ -20,3 +20,4 @@ Thumbs.db
 # IDE files
 .vscode/
 .idea/
+firmware_stm32f103c8t6/The_Driver/Obj/
